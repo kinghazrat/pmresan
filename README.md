@@ -42,7 +42,7 @@ config.py
 
 و بعد در ترمینال دستور لانچ که در بالا نوشته شده است را وارد کنید.
 
-[PlusTM](https://telegram.me/PlusTM)
+[Mr](https://telegram.me/MrAntiFuckerchannel)
 
-[Creator](https://telegram.me/Civey2) & [Creator](https://telegram.me/Civey)
+[Creator](https://telegram.me/MrAntiFuckersupport) 
 
