@@ -5,7 +5,7 @@
 
 ```sh
 
-git clone https://github.com/PlusTM/PmResan
+git clone https://github.com/kinghazrat/pmresan
 
 sudo apt-get install python-setuptools
 
